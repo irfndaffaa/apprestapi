@@ -1,0 +1,24 @@
+{
+  "name": "restapiapp",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfndaffaa/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "Irfandio Daffa Agustantio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfndaffaa/apprestapi/issues"
+  },
+  "homepage": "https://github.com/irfndaffaa/apprestapi#readme"
+}
